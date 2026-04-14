@@ -6,6 +6,7 @@ This project predicts the likelihood of heart failure using clinical data and an
 ## Dataset
 - Heart Failure Clinical Records Dataset
 - Includes features such as age, blood pressure, serum creatinine, diabetes, etc.
+- link: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
 
 ## Approach
 - Exploratory Data Analysis (EDA) to understand feature relationships
@@ -40,3 +41,4 @@ This project predicts the likelihood of heart failure using clinical data and an
 - Feature engineering improves model performance
 - Importance of scaling for neural networks
 - Handling imbalanced datasets in classification problems
+
